@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: RENTS THESE DAYS
+description: Scouring the California housing dataset to predict the cost of a roof over my head
+img: assets/img/img5.png
 importance: 3
-category: fun
+category: FUN
 ---
 
 Every project has a beautiful feature showcase page.

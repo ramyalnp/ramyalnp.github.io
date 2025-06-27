@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: ATTR-CM
+description: Uncovering the role of the extracellular matrix in the occurence of Amlyoid Transthyretin Cardiomyopathy
+img: assets/img/img4.png
 importance: 2
-category: work
+category: WORK
 giscus_comments: true
 ---
 
