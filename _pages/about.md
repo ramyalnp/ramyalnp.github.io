@@ -20,7 +20,7 @@ I’m also passionate about bridging science with real-world impact. Whether it�
 
 You might’ve come across my [GitHub](https://github.com/ramyalnp) where I share code for data-driven biology, or my [LinkedIn](https://www.linkedin.com/in/ramya0001/). If not—feel free to check them out!
 
-I’m always open to teaming up on new ideas, writing, or research. Reach me at [your email] if you're curious to collaborate.
+I’m always open to teaming up on new ideas, writing, or research. Reach me at [rl001@stanford.edu] if you're curious to collaborate.
 
 Things I’m currently into:
 
