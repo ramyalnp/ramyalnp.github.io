@@ -6,7 +6,7 @@ subtitle: <a>Masters in BME at Cornell University</a>
 
 profile:
   align: right
-  image: Profile_pic.jpg
+  image: Profile_pic-800.webp
   image_circular: false # crops the image to make it circular
   more_info: >
    <p style="text-align: right;">San Francisco, CA</p>
