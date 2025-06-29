@@ -23,3 +23,39 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+@keyframes floatInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-float {
+  animation: floatInUp 1s ease-out forwards;
+}
+
+.img-crop-square {
+  width: 400px;           /* desired square width */
+  height: 350px;          /* same height to make square */
+  overflow: hidden;
+  margin: 0 auto;         /* center container */
+  position: relative;
+}
+
+.img-crop-square img {
+  position: absolute;
+  top: -30px;             /* crops 30px from the top */
+  left: 0;
+  width: 100%;
+  height: auto;
+  object-fit: cover;      /* ensures the image covers the container */
+}
+
+ul li {
+  margin-bottom: 1.0rem; /* Adjust spacing as needed */
+}

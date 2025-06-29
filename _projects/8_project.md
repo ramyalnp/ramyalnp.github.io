@@ -1,81 +1,49 @@
 ---
 layout: page
 title: ATTR-CM
-description: Uncovering the role of the extracellular matrix in the occurence of Amlyoid Transthyretin Cardiomyopathy
+description: Uncovering the role of the extracellular matrix in the occurrence of Amyloid Transthyretin Cardiomyopathy
 img: assets/img/img4.png
 importance: 2
 category: WORK
-giscus_comments: true
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<!-- Project container with animation -->
+<div id="ATTR-CM" class="container my-5 animate-float">
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <!-- Intro paragraph on top -->
+  <div class="row">
+    <div class="col">
+      <p>
+        I worked at the <a href="https://www.neurobiology.ca/people" target="_blank">Ryan Lab</a> to explore how the extracellular matrix contributes to amyloid transthyretin cardiomyopathy (ATTR-CM). Using molecular assays, I studied how iPSCs differentiate into cardiomyocytes and tested how TTR aggregates affect their health and function.
+      </p>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+<!-- Bullet points full-width -->
+<div class="row mt-4">
+  <div class="col">
+    <ul>
+      <li>Designed and optimized a robust differentiation protocol to derive cardiomyocytes from human induced pluripotent stem cells (iPSCs).</li>
+      <li>Performed immunocytochemistry using cardiac-specific biomarkers to assess cell phenotype and maturation.</li>
+      <li>Utilized confocal microscopy to visualize and validate cardiomyocyte differentiation via expression of structural and functional markers.</li>
+      <li>Applied Volocity image analysis software to quantify marker expression and identify molecular cues that enhanced cardiomyocyte yield.</li>
+      <li>Established a transthyretin toxicity assay to evaluate cell viability and phenotypic changes in response to TTR exposure.</li>
+    </ul>
   </div>
 </div>
-```
 
-{% endraw %}
+  <!-- Miscellaneous section -->
+  <div class="row mt-5">
+    <div class="col text-center">
+      <p style="font-size: 32px;">Miscellaneous</p>
+      <p><em>...It was bowling night</em></p>
+    </div>
+  </div>
+
+  <!-- Image19 and caption at the bottom -->
+  <div class="row mt-5 justify-content-center">
+    <div class="col-sm-10 d-flex flex-column align-items-center">
+      {% include figure.liquid loading="eager" path="assets/img/img22.jpg" title="Image 19" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
