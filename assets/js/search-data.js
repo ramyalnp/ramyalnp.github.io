@@ -68,7 +68,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-attr-cm",
           title: 'ATTR-CM',
-          description: "Uncovering the role of the extracellular matrix in the occurence of Amlyoid Transthyretin Cardiomyopathy",
+          description: "Uncovering the role of the extracellular matrix in the occurrence of Amyloid Transthyretin Cardiomyopathy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{
