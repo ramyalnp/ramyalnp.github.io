@@ -18,7 +18,7 @@ My research blends CRISPR-based gene editing, iPSC-derived organoid models, tran
 
 You might’ve come across my [GitHub](https://github.com/ramyalnp) where I share code for data-driven biology, or my [LinkedIn](https://www.linkedin.com/in/ramya0001/). If not—feel free to check them out!
 
-Beyond the lab, I’m passionate about science that translates—whether that’s exploring regulatory frameworks for emerging biotechnologies, drug discovery,surgical robots, etc. I’m always open to teaming up on new ideas, writing, or research. Reach me at [rl001@stanford.edu](mailto:rl001@stanford.edu) if you're curious to collaborate. 
+Beyond the lab, I’m passionate about science that translates—whether that’s exploring regulatory frameworks for emerging biotechnologies, drug discovery or surgical robots, I’m always open to teaming up on new ideas, writing, or research. Reach me at [rl001@stanford.edu](mailto:rl001@stanford.edu) if you're curious to collaborate. 
 
 Right now, I’m especially excited by:
 
